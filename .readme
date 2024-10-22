@@ -1,2 +1,7 @@
 chạy java cần cài jdk
 check version java --version
+
+///java
+1:super:
+Từ khóa super trong Java được sử dụng để gọi các thành phần (constructor hoặc phương thức) của lớp cha.
+ 
